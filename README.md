@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Dominik - aka goninik
+
+## I'm a Developer!!
+
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on GitHub
 
 <!--
 **go-ninik/go-ninik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
