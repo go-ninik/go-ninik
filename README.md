@@ -5,7 +5,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
-
+- 💬 [discord](https://discord.com/invite/aioxyz)
 <!--
 **go-ninik/go-ninik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
